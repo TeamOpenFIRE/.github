@@ -14,3 +14,7 @@ OpenFIRE is an open source light gun firmware and ecosystem, focused on achievin
  - **[lemmingDev](https://github.com/lemmingDev)**: Early and ongoing bug tester, consultant, may be an actual lemming.
  - **[mccutheon](https://github.com/mccutheon)**: Group organizer, ideas guy, closest thing to an overseer this group has.
  - ***...And you,*** for both contributing to and supporting our endeavors of making light guns better than ever before!
+
+#### Want to connect more with the developers/users? [Join our Discord!](https://discord.gg/dFw5z6PBQv)
+
+#### You can also support the OpenFIRE maintainer (Seong) [on Ko-fi!](https://ko-fi.com/thatoneseong) OpenFIRE wouldn't be a thing without the generosity of its supporters.
