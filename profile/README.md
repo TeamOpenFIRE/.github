@@ -18,7 +18,7 @@ OpenFIRE is an open source light gun firmware and ecosystem, focused on achievin
 ### Support us! 
 #### If OpenFIRE has brought you any value or enjoyment, consider supporting the team members that made this possible! 
  - For future software development (firmware/configuration apps) and hardware (printables and accessory designs), [support the OpenFIRE maintainer (Seong) on Ko-fi!](https://ko-fi.com/thatoneseong)
- - You can buy Samco boards for Namco GunCon 1/2's from [Sam's eBay store](https://www.ebay.com/sch/i.html?item=184699412596&rt=nc&_ssn=samcocontrollers), or [tip Samco directly](https://www.paypal.me/sammywizbang)
+ - You can buy Samco boards for Namco GunCon 1/2's from [Sam's eBay store](https://www.ebay.com/sch/i.html?item=184699412596&rt=nc&_ssn=samcocontrollers).
 
 OpenFIRE wouldn't be a thing without the generosity of its supporters, thank you!
 
